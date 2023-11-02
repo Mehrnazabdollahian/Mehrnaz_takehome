@@ -15,19 +15,7 @@ All answers should be in the form of a pull request from a __fork__ of this repo
 
 There is NO preferred exercise!
 
-### Exercise 1: Chess data
-
-The file `chess_games.csv` is a collection of chess games from Lichess and Chess.com along with a collection of metrics 
-of each player's performance during the game (the actual game is not included).
-
-The task is this: __Determine the difference in player behavior when they’re winning vs losing vs maintaining their elo score__
-
-Be sure to look at the problem carefully, while we are looking at overall patterns amongst players, *how* you break up a 
-player's performance into winning, losing, and maintaining is important. 
-
-If you have any questions please reach out to Han at han.li@pivotallifesciences.com.
-
-### Exercise 2: Financial data
+### Exercise 1: Financial data
 
 This exercise is a BYOD (bring your own data) exercise. You are free to use any data you wish, but you must either
 include the data as a file in the repository or provide a link to the data in the README.md file. (No matter what you 
@@ -40,7 +28,7 @@ to pull and extract meaningful data for a problem.
 
 If you have any questions please reach out to Han at han.li@pivotallifesciences.com.
 
-### Exercise 3: Reddit Data 
+### Exercise 2: Reddit Data 
 
 The file `askscience_data.csv` is a collection of posts from the subreddit r/askscience. The task comes with two parts: 
 1. __Determine the attributes of a successful post on r/askscience__
